@@ -8,13 +8,13 @@ Linux terminal (GitBash) commands:
 6) Создать 5 файлов (3 txt, 2 json)              : touch t_1.txt t_2.txt t_3.txt t_4.json t_5.json
 7) Создать 3 папки				 : mkdir pnew_1 pnew_2 pnew_3
 8) Вывести список содержимого папки              : ls -la
-9) + Открыть любой txt файл			 : vim t_1.txt
-10) + написать туда что-нибудь, любой текст.     : insert  { “group”: 25, 
+9) Открыть любой txt файл			 : vim t_1.txt
+10) Написать туда что-нибудь, любой текст.     : insert  { “group”: 25, 
 							     "course": "QA",	
 							     “name”: “Ruslan”,
 								"age": 23,
 								"hobbi": "football"}
-11) + сохранить и выйти.  			  [Esc]     : WQ
+11) Сохранить и выйти.  			  [Esc]     : WQ
 12) Выйти из папки на уровень выше		 : cd ..
 —
 13) переместить любые 2 файла, которые вы создали, в любую другую папку.                    :mv t_4.json t_5.json pnew_1;
