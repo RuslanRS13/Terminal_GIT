@@ -14,7 +14,7 @@ Linux terminal (GitBash) commands:
 							     “name”: “Ruslan”,
 								"age": 23,
 								"hobbi": "football"}
-11) + сохранить и выйти.  			  [Esc}     : WQ
+11) + сохранить и выйти.  			  [Esc]     : WQ
 12) Выйти из папки на уровень выше		 : cd ..
 —
 13) переместить любые 2 файла, которые вы создали, в любую другую папку.                    :mv t_4.json t_5.json pnew_1;
