@@ -1,0 +1,12 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<Bug_report>
+<Bug_ID>1</Bug_ID>
+<Title>Товар не добавляется в корзину</Title>
+<STR>
+<step_1>Зайти на страницу товара</step_1>
+<step_2>Нажать кнопку Добавить в корзину</step_2>
+<step_3>Перейти в корзину</step_3>
+</STR>
+<Expected_result>Товар добавлен в корзину</Expected_result>
+<Actual_Result>Корзина Пуста</Actual_Result>
+ </Bug_report>
