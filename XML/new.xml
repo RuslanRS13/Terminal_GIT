@@ -1,0 +1,9 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<person>
+<name>Ruslan</name>
+<surname>Samsonov</surname>
+<age>23</age>
+<animals null="true"/>
+<desired salary usd>400</desire_salary_usd>
+</person>
+
