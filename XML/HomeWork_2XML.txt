@@ -16,7 +16,7 @@ XML
 										<surname>Samsonov</surname>
 										<age>23</age>
 										<animals null="true"/>
-										<desired salary usd>400</desire_salary_usd>
+										<desired_salary_usd>400</desire_salary_usd>
 										</person>
 
 										[ESC] :wq
